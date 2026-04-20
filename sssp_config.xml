@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widgetlist>
+    <widget id="debPlayerWeb">
+        <title>Mi App Samsung</title>
+        <compression size="15472" type="zip"/>
+        <description>Instalador desde GitHub</description>
+        <download>https://raw.githubusercontent.com/ticservices92/app-samsung/main/deb.wgt</download>
+    </widget>
+</widgetlist>
